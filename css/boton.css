@@ -1,0 +1,29 @@
+
+form {
+    width: 200px;
+    margin: auto;
+    
+    box-sizing: border-box;
+    margin-top: 100px;
+    border-radius: 20px; 
+    
+}
+
+h2{
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+input, textarea {
+    width: 250%;
+    margin-bottom: 8%;
+    padding: 7%;
+    box-sizing: border-box;
+    font-size: 17px;
+   
+}
+#boton:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+#muestras h4 {
+    text-align: center;}
+#muestras.contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap ;
+}
+
+#muestras article {
+    margin: 15px;
+}
+
+#muestras img {
+    width: 100%
+    max-width:  280px;
+}
